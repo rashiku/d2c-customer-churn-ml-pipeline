@@ -1,0 +1,11 @@
+customer_id,recency_days,frequency_180d,sessions_30d,last_visit_days_ago,ticket_count_90d,loyalty_tier,negative_ticket_rate_90d,proba_churn,churn_next_60d,error_type
+CUST00650,59,2,6,5,0,Silver,0.0,0.2867746057634699,1,False Negative
+CUST01713,41,5,1,10,1,Not_Enrolled,1.0,0.279612653360398,1,False Negative
+CUST00188,29,2,11,5,1,Gold,1.0,0.22629371459621686,1,False Negative
+CUST01626,28,3,6,1,0,Silver,0.0,0.1993755925912285,1,False Negative
+CUST01878,22,1,4,6,0,Not_Enrolled,0.0,0.31448444043085283,1,False Negative
+CUST00857,67,2,3,4,1,Not_Enrolled,1.0,0.3510987392352252,0,False Positive
+CUST01261,18,1,1,0,0,Gold,0.0,0.3517690865398575,0,False Positive
+CUST02079,19,4,1,6,1,Not_Enrolled,1.0,0.35959158284472936,0,False Positive
+CUST00006,51,4,2,1,2,Silver,1.0,0.36269023846663434,0,False Positive
+CUST02226,49,4,5,10,1,Gold,1.0,0.36438260158706354,0,False Positive
